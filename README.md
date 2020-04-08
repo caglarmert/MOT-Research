@@ -57,7 +57,7 @@ Major,Minor,Bug
 
 ## Contact
 
-Ümit Mert ÇAĞLAR – [@YourTwitter](https://twitter.com/dbader_org) – mert.caglar@metu.edu.tr
+Ümit Mert ÇAĞLAR – [@Blog](https://blog.metu.edu.tr/e204368/) – mert.caglar@metu.edu.tr
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
