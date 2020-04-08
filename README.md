@@ -2,8 +2,9 @@
 > Human Activity Recognition (HAR) Resarch repository
 
 ![Python package](https://github.com/caglarmert/HAR-Research/workflows/Python%20package/badge.svg)
-Action Recognition Wiki (https://github.com/caglarmert/HAR-Research/wiki/Awesome-Action-Recognition)
-Human Action Recognition Wiki (https://github.com/caglarmert/HAR-Research/wiki/Awesome-Human-Action-Recognition-Repository)
+
+Action Recognition Wiki(https://github.com/caglarmert/HAR-Research/wiki/Awesome-Action-Recognition)
+Human Action Recognition Wiki(https://github.com/caglarmert/HAR-Research/wiki/Awesome-Human-Action-Recognition-Repository)
 
 Human activity recognition, or HAR, is a challenging time series classification task.
 
