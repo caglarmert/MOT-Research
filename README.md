@@ -1,6 +1,8 @@
 # Human Activity Recognition Research Repository 
 > Human Activity Recognition (HAR) Resarch repository
 
+![Python package](https://github.com/caglarmert/HAR-Research/workflows/Python%20package/badge.svg)
+
 Human activity recognition, or HAR, is a challenging time series classification task.
 
 It involves predicting the movement of a person based on sensor data and traditionally involves deep domain expertise and methods from signal processing to correctly engineer features from the raw data in order to fit a machine learning model.
