@@ -31,7 +31,6 @@ To-Do
 
 ## HAR AI Models
 
-After reading this post, you will know:
 
 * Activity recognition is the problem of predicting the movement of a person, often indoors, based on sensor data, such as an accelerometer in a smartphone.
 * Streams of sensor data are often split into subs-sequences called windows, and each window is associated with a broader activity, called a sliding window approach.
