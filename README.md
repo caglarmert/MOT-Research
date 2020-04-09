@@ -1,9 +1,9 @@
 # Multi Object Tracking Research Repository 
-> Object Detection
-> Object tracking
-> Multiple Object Tracking (MOT)
-> Human Action Detection
-> Human Activity Recognition (HAR) Resarch
+> - Object Detection
+> - Object tracking
+> - Multiple Object Tracking (MOT)
+> - Human Action Detection
+> - Human Activity Recognition (HAR) Resarch
 
 ![Python package](https://github.com/caglarmert/HAR-Research/workflows/Python%20package/badge.svg)
 
