@@ -9,6 +9,7 @@
 
 [Action Recognition Wiki](https://github.com/caglarmert/HAR-Research/wiki/Awesome-Action-Recognition)
 [Human Action Recognition Wiki](https://github.com/caglarmert/HAR-Research/wiki/Awesome-Human-Action-Recognition-Repository)
+[Multi Object Tracking Wiki](https://github.com/caglarmert/MOT-Research/wiki/Multi-Object-Tracking-Paper-List)
 
 Human activity recognition, or HAR, is a challenging time series classification task.
 
