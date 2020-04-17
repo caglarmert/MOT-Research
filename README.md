@@ -65,7 +65,7 @@ Major,Minor,Bug
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/caglarmert/HAR-Research](https://github.com/dbader/)
+[Github](https://github.com/caglarmert)
 
 ## Contributing
 
