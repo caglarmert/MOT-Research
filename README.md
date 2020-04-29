@@ -5,7 +5,7 @@
 > - Human Action Detection
 > - Human Activity Recognition (HAR) Resarch
 
-![Python package](https://github.com/caglarmert/HAR-Research/workflows/Python%20package/badge.svg)
+![Python PEP Checks](https://github.com/caglarmert/HAR-Research/workflows/Python%20package/badge.svg)
 ![Mark stale issues and pull requests](https://github.com/caglarmert/MOT-Research/workflows/Mark%20stale%20issues%20and%20pull%20requests/badge.svg)
 ![Python application](https://github.com/caglarmert/MOT-Research/workflows/Python%20application/badge.svg)
 
