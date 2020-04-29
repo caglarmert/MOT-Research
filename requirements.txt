@@ -15,9 +15,4 @@ lap==0.4.0
 llvmlite==0.31.0
 matplotlib==3.0.3
 mccabe==0.6.1
-mkl-fft==1.0.6
-mkl-random==1.0.1.1
-more-itertools==8.2.0
-motmetrics==1.2.0
-numba==0.47.0
 numpy==1.18.1
