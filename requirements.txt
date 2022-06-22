@@ -1,5 +1,5 @@
 numba==0.47.0
-numpy==1.18.1
+numpy==1.22.0
 olefile==0.46
 opencv-python==4.2.0.34
 openpyxl==3.0.3
